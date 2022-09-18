@@ -1,5 +1,3 @@
-import 'package:flutter/foundation.dart';
-
 class IProviderStats {
   final String name;
   final String baseUrl;
