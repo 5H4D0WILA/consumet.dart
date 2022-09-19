@@ -1,8 +1,8 @@
 import 'package:meta/meta.dart';
 
 import 'types.dart';
-
-abstract class BaseProvider {
+ 
+abstract class BaseParser {
   ///
   /// Name of the provider
   ///
